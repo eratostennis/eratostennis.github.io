@@ -35,8 +35,7 @@
 		/* ---------------------------------------------- */
 
 		$('#intro').backstretch([
-			'assets/images/top_terminal01.jpg',
-			'assets/images/top_fashion01.jpg'
+			'assets/images/top_terminal01.jpg'
 		], {duration: 3000, fade: 750});
 
 		/* ---------------------------------------------- /*
